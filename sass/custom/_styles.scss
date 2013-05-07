@@ -10,8 +10,16 @@
 		-ms-transition: all .1s ease-in;
 		transition: all .1s ease-in;
     
-    #header a:hover {
-      color: lighten($greyshade, 25);
+    #header {
+      a:hover {
+        color: lighten($greyshade, 25);
+      }
+      
+      .bio {
+        line-height: 1.2em;
+        color: #999;
+        margin-top: 10px;
+      }
     }
   }
 }
