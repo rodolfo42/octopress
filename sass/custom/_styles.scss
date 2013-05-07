@@ -1,0 +1,17 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+.container {
+  .left-col {
+    opacity: .4;
+		-webkit-transition: all .1s ease-in;
+		-moz-transition: all .1s ease-in;
+		-o-transition: all .1s ease-in;
+		-ms-transition: all .1s ease-in;
+		transition: all .1s ease-in;
+    
+    #header a:hover {
+      color: lighten($greyshade, 25);
+    }
+  }
+}
