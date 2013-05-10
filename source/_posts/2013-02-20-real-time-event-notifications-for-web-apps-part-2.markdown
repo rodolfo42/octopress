@@ -238,7 +238,11 @@ In the code above, I added support for a `url` attribute, which, if present the 
 
 What's briliant about this solution, is that, in order for the user not to be harassed by a lot of notifications for each open tab, which can be 10, 20 or a 100 tabs, the server only publishes events to the *active* sockets (represented by the continuous black line), which are basically the last sockets to register for each hash.
 
-The source code for this entire solution is available in Github: [rodolfo42/event-notifications](https://github.com/rodolfo42/event-notifications)
+---
+
+The source code for this entire solution is available in the Github repository below.
+
+<div class="github-widget" data-repo="rodolfo42/event-notifications"></div>
 
 [NodeJS]: http://nodejs.org/ "Joyent's Node.js official website"
 [Express]: http://expressjs.com/ "Express framework website"
