@@ -203,6 +203,9 @@ body {
 			a:hover {
 				color: $greyshade;
 			}
+			.social a {
+				margin-top: 10px;
+			}
 			#sub-nav {
 				margin-top: 10px;
 				.search::before {
