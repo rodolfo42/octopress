@@ -11,6 +11,8 @@ This is mainly for *test* cases, when you're new to AWS S3 and you create a *tes
 
 Since I particularly had many many objects like these, I went through all these in the AWS S3 web interface and began selecting a bulk of them, deleting, waiting, then again and again (because the web interface doesn't have a "select all" feature to date - I think for security reasons).
 
+<!-- more -->
+
 ## Deleting all objects through a ruby script using AWS SDK
 
 The script below was adapted from [this answer][StackOverflowAnswer]. I first tried to use it to delete my test bucket, but the original script in this answer seems to be outdated (the new AWS SDK works a little bit differently). So here it is:
