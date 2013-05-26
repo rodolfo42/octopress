@@ -76,7 +76,7 @@ log4js.configure({
     replaceConsole: true
 });
 
-var log = log4js.getLogger();;
+var log = log4js.getLogger();
 {% endhighlight %}
 
 Declare your dependencies and project info in a `package.json` file in the root:
