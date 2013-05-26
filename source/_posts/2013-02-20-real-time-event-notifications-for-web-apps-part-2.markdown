@@ -240,6 +240,18 @@ What's briliant about this solution, is that, in order for the user not to be ha
 
 ---
 
+### Demo
+
+A demo is available on-line: [http://app.rodolfoferreira.com.br/](http://app.rodolfoferreira.com.br/).
+
+Just enable Desktop Notifications via the switch (accept the request for permission), open multiple tabs and fire a message via the web interface. You'll only receive one notification. As you close the tabs and fire messages, you will continue to receive only one notification, though all open tabs are listening.
+
+You can invite some of your friends to open this same URL in their browsers and start a remote chat!
+
+---
+
+### Source code
+
 The source code for this entire solution is available in the Github repository below.
 
 <div class="github-widget" data-repo="rodolfo42/event-notifications"></div>
