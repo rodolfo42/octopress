@@ -21,4 +21,39 @@
       }
     }
   }
+	
+	.entry-content {
+		background: none;
+		
+		.gist {
+			background: #EEE;
+			
+			.gist-file {
+				border: none !important;
+				
+				.gist-meta {
+					background: inherit;
+						
+					a {
+						color: $greyshade;
+					}
+					
+					a:nth-of-type(2) {
+						color: #666;
+						font-weight: bold;
+						background: none !important;
+					}
+				}
+				
+				.gist-data {
+					.file-data {
+						table {
+							width: 100%;
+							background: #F5F5F5;
+						}
+					}
+				}
+			}
+		}
+	}
 }
