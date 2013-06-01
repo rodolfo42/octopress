@@ -11,7 +11,8 @@ Brasileiro, 21 anos (08/01/92), Solteiro
 Celular: (13) 9154-3167  
 E-mail: [rodolfo@rodolfoferreira.com.br](mailto:rodolfo@rodolfoferreira.com.br)  
 Blog: [http://rodolfoferreira.com.br](http://rodolfoferreira.com.br)  
-LinkedIn: [http://www.linkedin.com/in/rodolfo42] (http://www.linkedin.com/in/rodolfo42)
+LinkedIn: [http://www.linkedin.com/in/rodolfo42](http://www.linkedin.com/in/rodolfo42)  
+GitHub: [https://github.com/rodolfo42](https://github.com/rodolfo42)
 
 ## Resumo
 
@@ -26,9 +27,9 @@ Entusiasta do código aberto, pensamento crítico e user-centered.
 
 ## Objetivo profissional
 
-1. Resolver problemas envolvendo arquitetura de sistemas, escalabilidade, integração, administração de infraestrutura Cloud, Big Data, usabilidade de interfaces para usuários finais, alinhamento negócio x TI e segurança da informação.
+1. Trabalhar com equipes e definir padrões de arquitetura e etapas do workflow no desenvolvimento de software (tecnologias usadas, integração, controle de versão, testes, documentação, deploy, monitoramento, CI).
 
-2. Trabalhar com equipes e definir padrões de arquitetura e etapas do workflow no desenvolvimento de software (tecnologias usadas, integração, controle de versão, testes, documentação, deploy, monitoramento, CI).
+2. Resolver problemas envolvendo arquitetura de sistemas, escalabilidade, integração, administração de infraestrutura Cloud, Big Data, usabilidade de interfaces para usuários finais, alinhamento negócio x TI e segurança da informação.
  
 ## Certificações
 
@@ -44,10 +45,12 @@ Analista e Desenvolvedor de Sistemas, com foco na construção de sistemas web, 
 
 - Java (J2EE) - 4 anos de experiência, utilizando: **_Servlets, Hibernate, Spring, JSF, GWT, Vaadin, VRaptor, JSTL, Log4j, Maven, Ant_**
 - PHP - 5 anos de experiência, utilizando: *CakePHP, Slim Framework, Zend*
-- conhecimentos básicos em programação funcional com Scala (Play e Lift) e Clojure 
+- experiência com programação orientada a eventos e assíncrona com *Node.js*
+- conhecimentos básicos em programação funcional com *Scala (Play Framework)* e *Clojure*
 - noções básicas de Ruby (especificamente Jekyll e SDK da AWS)
 
 Experiência com bancos de dados relacionais (instalação, administração, uso e bibliotecas de integração):
+
 - MySQL 5 avançado - 5 anos de experiência
 - DB2 (certificado pela IBM)
 - SQL Server
