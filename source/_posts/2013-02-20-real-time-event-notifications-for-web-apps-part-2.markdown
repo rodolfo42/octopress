@@ -242,7 +242,7 @@ What's briliant about this solution, is that, in order for the user not to be ha
 
 ### Demo
 
-A demo is available on-line: [http://app.rodolfoferreira.com.br/](http://app.rodolfoferreira.com.br/).
+A demo is available on-line [here][DemoLink].
 
 Just enable Desktop Notifications via the switch (accept the request for permission), open multiple tabs and fire a message via the web interface. You'll only receive one notification. As you close the tabs and fire messages, you will continue to receive only one notification, though all open tabs are listening.
 
@@ -264,3 +264,4 @@ The source code for this entire solution is available in the Github repository b
 [Diagram2]: /uploads/arch2.png
 [jQueryCookie]: https://github.com/carhartl/jquery-cookie
 [DesktopNotifications]: http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification "Chromium Desktop Notification Spec"
+[DemoLink]: http://evntsrvr.aws.af.cm/
